@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prachi520/ads/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/prachi520/ads/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/prachi520/ads/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/prachi520/ads/tree/master/0148-sort-list) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/prachi520/ads/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/prachi520/ads/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/prachi520/ads/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
