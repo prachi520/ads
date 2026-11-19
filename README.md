@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/prachi520/ads/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/prachi520/ads/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prachi520/ads/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/prachi520/ads/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prachi520/ads/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/prachi520/ads/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/prachi520/ads/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prachi520/ads/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/prachi520/ads/tree/master/0404-sum-of-left-leaves) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/prachi520/ads/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/prachi520/ads/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prachi520/ads/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0133-clone-graph](https://github.com/prachi520/ads/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/prachi520/ads/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/prachi520/ads/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prachi520/ads/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/prachi520/ads/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
