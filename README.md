@@ -81,7 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/prachi520/ads/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prachi520/ads/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/prachi520/ads/tree/master/0404-sum-of-left-leaves) |
-| [0684-redundant-connection](https://github.com/prachi520/ads/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/prachi520/ads/tree/master/0685-redundant-connection-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,7 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/prachi520/ads/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/prachi520/ads/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/prachi520/ads/tree/master/0404-sum-of-left-leaves) |
-| [0684-redundant-connection](https://github.com/prachi520/ads/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/prachi520/ads/tree/master/0685-redundant-connection-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -126,7 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prachi520/ads/tree/master/0200-number-of-islands) |
-| [0684-redundant-connection](https://github.com/prachi520/ads/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/prachi520/ads/tree/master/0685-redundant-connection-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -135,5 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/prachi520/ads/tree/master/0133-clone-graph) |
-| [0684-redundant-connection](https://github.com/prachi520/ads/tree/master/0684-redundant-connection) |
+| [0685-redundant-connection-ii](https://github.com/prachi520/ads/tree/master/0685-redundant-connection-ii) |
 <!---LeetCode Topics End-->
